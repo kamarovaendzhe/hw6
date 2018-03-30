@@ -16,4 +16,10 @@
 ### Вывод из полученных данных: 
 #### Три самых частотных модификатора существительного "question": difficult, important, fundamental.
 #
-##_Задание 2_
+## _Задание 2_
+![](https://github.com/kamarovaendzhe/hw6/blob/master/Снимок5.PNG)
+#
+![](https://github.com/kamarovaendzhe/hw6/blob/master/Снимок6.PNG)
+### В данном задании я выбрала такие 2 синонимичные глагола, как "watch" и "observe". 
+### 1. С помощью программы я выяснила, что оба глагола могут употребляться только с одним глаголом - "listen". Только глагол "watch" может употребляться с: sit, stand, wait, stay, come. Только глагол "observe" может употребляться с: collect, understand, analyse, expect, record.
+### 2. Более того, я выяснила что оба эти глагола употребляются с такими дополнениями, как: change, pattern, effect, behaviour. Только глагол "watch" может употребляться с: television, film, video, match, programme. Только глагол "observe" может употребляться с: transit, covenant, principle, phenomenon, difference, silence. 
